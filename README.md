@@ -2,6 +2,8 @@
 
 ![화면 캡처 2024-07-29 103417](https://github.com/user-attachments/assets/43ac35ac-74b9-404b-8a3e-9f5f7668f521)
 
+https://jjjangsh.github.io/JavaScript-movie-collection/
+
 ## 소개
 - TMDB 오픈 API를 이용하여 인기영화 데이터를 가져오고, 받아온 데이터를 브라우저 화면에 카드 형태의 데이터로 보여줍니다.
 
